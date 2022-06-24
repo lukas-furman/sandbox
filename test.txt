@@ -4,3 +4,4 @@ Line 3: yet another line
 New line
 New line
 New line
+New line
